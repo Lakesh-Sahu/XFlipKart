@@ -1,8 +1,8 @@
 package demo;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
+// import org.openqa.selenium.Keys;
+// import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeDriverService;
@@ -17,7 +17,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import java.time.Duration;
-import java.util.ArrayList;
+// import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
 
@@ -30,7 +30,7 @@ public class TestCases {
     Wrappers wp;
 
     /*
-     * TODO: Write your tests here with testng @Test annotation.
+     * TO DO: Write your tests here with testng @Test annotation.
      * Follow `testCase01` `testCase02`... format or what is provided in
      * instructions
      */
