@@ -2,7 +2,8 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Test Suite for Buildout">
     <test name = "Test Cases for Buildout">
-       <classes>          
+        <!--entering class name to be included-->
+        <classes>          
             <class name="demo.TestCases"></class>
         </classes>
     </test>
